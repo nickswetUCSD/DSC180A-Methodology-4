@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Nicholas Patel Swetlin
-nswetlin@ucsd.edu
+Nicholas Patel Swetlin and Ifunanya Okoroma
